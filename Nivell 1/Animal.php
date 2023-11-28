@@ -10,8 +10,7 @@
     }
 
     //Metodo
-    abstract public function makeSound(){
-    }
+    abstract public function makeSound();
 
  }
 
